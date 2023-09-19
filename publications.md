@@ -9,7 +9,10 @@ For a full overview of all publications please visit my
 [Google Scholar](https://scholar.google.de/citations?user=__JOgFQAAAAJ&hl)
 profile.
 
-
+- **Challenges in Live Monitoring of Machine Learning Systems** <br> P. Baier and S. Dragiev
+<br> Proceedings of the The Upper Rhine Artificial Intelligence Symposium 
+(URAI), 2021.
+[Link](https://pabair.github.io/assets/URAI2021.pdf)
 - **MapGENIE: Grammar-enhanced Indoor Map Construction from Crowd-sourced Data** <br> D. Philipp, P. Baier, C. Dibak, F. Dürr, K. Rothermel, S. Becker,
 M. Peter, and D. Fritsch
 <br> Proceedings of the Conference on Pervasive Computing and Communications
