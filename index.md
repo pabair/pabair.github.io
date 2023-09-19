@@ -3,6 +3,5 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Test Me can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Hi, my name is Patrick Baier, I am a professor for Machine Learning at the University of Applied Science Karlsruhe.
+On this webpage I showcase some of the work that was done by me and my students.
