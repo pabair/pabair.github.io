@@ -9,7 +9,7 @@ I am teaching the following courses on a regular base:
 Audience: Bachelor Computer Science and Computer Science & Media <br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507)
 - **Introduction to Machine Learning**<br>
-Audience: Bachelor Computer Science
+Audience: Bachelor Computer Science<br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB3307)
 - **Introduction to Reinforcement Learning**<br>
 Audience: Bachelor Computer Science <br>
