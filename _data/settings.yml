@@ -1,8 +1,8 @@
 menu:
-- {name: 'people', url: '/people'}
+#- {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+#- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:
@@ -22,4 +22,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickbaier/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Patrick Baier', title: 'Professor', department: 'Computer Science ', institution: 'Hochschule Karlsruhe', institution_address: 'Moltkestraße 30, Karlsruhe', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
