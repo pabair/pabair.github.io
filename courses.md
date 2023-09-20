@@ -5,18 +5,17 @@ title: "Courses"
 
 I am teaching the following courses on a regular base:
 
-- ** Statistics ** <br>
-Audience: Bachelor Computer Science and Computer Science & Media
+- **Statistics** <br>
+Audience: Bachelor Computer Science and Computer Science & Media <br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507)
-
-- ** Introduction to Machine Learning **<br>
+- **Introduction to Machine Learning**<br>
 Audience: Bachelor Computer Science
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB3307)
-- ** Introduction to Reinforcement Learning **<br>
-Audience: Bachelor Computer Science
+- **Introduction to Reinforcement Learning**<br>
+Audience: Bachelor Computer Science <br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107)
-- ** Artificial Intelligence **<br>
-Audience: Master Computer Science
+- **Artificial Intelligence**<br>
+Audience: Master Computer Science<br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFM/7/INFM210ML)
 
 Students from the Hochschule Karlsruhe can access my material through [Ilias](https://ilias.h-ka.de/goto.php?target=cat_452250&client_id=HSKA).
