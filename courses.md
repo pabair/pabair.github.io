@@ -2,6 +2,8 @@
 layout: courses
 title: "Courses"
 ---
+<h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
+
 
 I am teaching the following courses on a regular base:
 

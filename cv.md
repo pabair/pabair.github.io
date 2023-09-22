@@ -4,8 +4,6 @@ title: "CV"
 ---
 <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
 
-<hr width="500px;" color="black">
-
 [Linkedin Profil](https://www.linkedin.com/in/patrickbaier/)
 
 <hr width="500px;" color="black">
