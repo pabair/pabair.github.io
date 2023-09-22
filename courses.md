@@ -9,15 +9,13 @@ I am teaching the following courses on a regular base:
 
 - **Fundamentals of Statistics** <br>
 Audience: Bachelor Computer Science and Computer Science & Media <br>
-[Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507)
-(Scroll down on that page)
+[Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507#INFB2517.b)
 - **Introduction to Machine Learning**<br>
 Audience: Bachelor Computer Science<br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB3307)
 - **Introduction to Reinforcement Learning**<br>
 Audience: Bachelor Computer Science <br>
-[Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107)
-(Scroll down on that page)
+[Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB7107#I_W775)
 - **Artificial Intelligence**<br>
 Audience: Master Computer Science<br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFM/7/INFM210ML)
