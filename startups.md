@@ -1,6 +1,6 @@
 ---
-layout: people
-title: "People"
+layout: startups
+title: "Startups"
 ---
 
 -- under construction --
