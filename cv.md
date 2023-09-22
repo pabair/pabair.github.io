@@ -2,7 +2,7 @@
 layout: cv
 title: "CV"
 ---
-<h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
+<h3 class="fw-bold border-bottom pb-3 mb-5">Curriculum Vitae</h3>
 
 <dl>
   <dt>since 2020: Hochschule Karlsruhe</dt>
@@ -18,11 +18,11 @@ title: "CV"
   </dd>
 
   <dt>2010 - 2014: University Stuttgart</dt>
-  <dd>Scientific Researcher in the field of predictive modeling to minimize mobile device energy consumption.
+  <dd>Scientific Researcher in the field of predictive modeling for minimizing mobile device energy consumption.
   </dd>
 
-  <dt>2010: Master Business Informatics, University Hohenheim</dt>
-  <dt>2007: Bachelor Computer Science, University Paderborn</dt>
+  <dt>2010: Master in Business Information Systems, University Hohenheim</dt>
+  <dt>2007: Bachelor in Computer Science, University Paderborn</dt>
 
 </dl>
 You can check also my [Linkedin profile](https://www.linkedin.com/in/patrickbaier/).
