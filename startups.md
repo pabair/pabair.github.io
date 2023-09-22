@@ -9,7 +9,7 @@ Additionally, I support individual startups that focus on machine learning and A
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-  	<a href="https://www.site-view.de/">SiteView</a> offers innovative hard and software solutions for a camera based project surveillance on construction sides. To this end, the product uses AI based algorithms to produce high quality time lapse videos about the construction progress.
+  	<a href="https://www.site-view.de/">SiteView</a> offers innovative hard and software solutions for a camera based project surveillance on construction sides. To produce high quality time lapse videos about the construction, AI based algorithms are used.
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/Logo_SiteView.png" alt="Home" width="90%">
