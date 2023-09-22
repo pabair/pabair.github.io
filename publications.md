@@ -11,8 +11,7 @@ profile.
 
 - **Untersuchung der Wirkung von Data Storytelling auf das Datenverständnis von Dashboard-Nutzer:innen** <br>
 V. Zitz and P. Baier
-<br> Tagungsband zur 36. Jahrestagung des "Arbeitskreises Wirtschaftsinformatik an Hochschulen für Angewandte Wissenschaften im deutschsprachigen Raum" (AKWI) der Gesellschaft für Informatik e. V. 
-, 2023.
+<br> Tagungsband zur 36. Jahrestagung des "Arbeitskreises Wirtschaftsinformatik an Hochschulen für Angewandte Wissenschaften im deutschsprachigen Raum" (AKWI), 2023.
 [Link](https://pabair.github.io/assets/AKWI2023.pdf)
 - **Challenges in Live Monitoring of Machine Learning Systems** <br> P. Baier and S. Dragiev
 <br> Proceedings of the The Upper Rhine Artificial Intelligence Symposium 
