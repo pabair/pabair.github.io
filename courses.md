@@ -7,7 +7,7 @@ title: "Courses"
 
 I am teaching the following courses on a regular base:
 
-- **Statistics** <br>
+- **Fundamentals of Statistics** <br>
 Audience: Bachelor Computer Science and Computer Science & Media <br>
 [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507)
 (Scroll down on that page)
