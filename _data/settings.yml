@@ -12,4 +12,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickbaier/'}
 
 contacts:
-- {name: 'Prof. Dr. Patrick Baier', department: 'Computer Science ', institution: 'Hochschule Karlsruhe', institution_address: 'Moltkestraße 30, 76133 Karlsruhe', email: 'firstname.lastname@h-ka.de', office: 'E Building', image: 'assets/img/contact.jpg'}
+- {name: 'Prof. Dr. Patrick Baier', department: 'Computer Science ', institution: 'Hochschule Karlsruhe', institution_address: 'Moltkestraße 30, 76133 Karlsruhe', email: 'firstname.lastname@h-ka.de', office: 'E Building, Room E-202A', image: 'assets/img/contact.jpg'}
