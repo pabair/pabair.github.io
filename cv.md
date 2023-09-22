@@ -9,7 +9,7 @@ title: "CV"
   <dd>Professor for Machine Learning</dd>
 
   <dt>2016 - 2020: Zalando SE, Berlin</dt>
-  <dd>Since 2018: Team Lead Machine Learning <br>
+  <dd>2018 - 2020: Team Lead Machine Learning <br>
 	2016 - 2018: Machine Learning Engineer
   </dd>
 
