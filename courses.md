@@ -3,9 +3,7 @@ layout: courses
 title: "Courses"
 ---
 <h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
-
-
-I am teaching the following courses on a regular base:
+I am teaching the following courses on a regular base at the University of Applied Science Karlsruhe:
 
 - **Fundamentals of Statistics** <br>
 Audience: Bachelor Computer Science and Computer Science & Media <br>
