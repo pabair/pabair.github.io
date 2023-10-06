@@ -14,8 +14,8 @@ I am currently involved as a mentor and lecturer in the startup programs of the 
   <div class="col-md-6">
     <a href="https://www.ki-garage.de/de/">
     <img src="{{ site.github.url }}/assets/img/kigarage.png" alt="Home" width="70%">
+    </a>
   </div>
-  </a>
 </div>
 
 Additionally, I support individual startups that focus on machine learning and AI products. Here is a short list of startups I worked with in the past:
