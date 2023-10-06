@@ -21,7 +21,7 @@ Additionally, I support individual startups that focus on machine learning and A
   	<a href="https://www.site-view.de/">SiteView</a> offers innovative hard and software solutions for camera based project monitoring of construction sites. The product allows to produce high quality time lapse videos of construction sites using AI based video optimization.
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/Logo_SiteView.png" alt="Home" width="90%">
+    <img src="{{ site.github.url }}/assets/img/Logo_SiteView.png" alt="Home" width="70%">
   </div>
 </div>
 
@@ -30,7 +30,7 @@ Additionally, I support individual startups that focus on machine learning and A
   	<a href="https://ventecon.com//">Ventecon</a> develops an AI copilot for product managers. Their solution offers an NLP powered virtual space where a product manager can create business and technical product specifications with context that is automatically sourced from the web and intranet.
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/Ventecon_Logo.png" alt="Home" width="90%">
+    <img src="{{ site.github.url }}/assets/img/Ventecon_Logo.png" alt="Home" width="70%">
   </div>
 </div>
 
