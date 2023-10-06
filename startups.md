@@ -9,6 +9,7 @@ I am currently involved as a mentor and lecturer in the startup programs of the 
   <div class="col-md-6">
     <a href="https://www.cyberlab-karlsruhe.de/starthilfe/cyberlab-accelerator">
     <img src="{{ site.github.url }}/assets/img/CyberLab.jpg" alt="Home" width="90%">
+    </a>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/kigarage.png" alt="Home" width="90%">
