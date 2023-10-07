@@ -2,7 +2,7 @@ menu:
 - {name: 'startups', url: '/startups'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+#- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 social:
