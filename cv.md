@@ -25,4 +25,4 @@ title: "CV"
   <dt>2007: Bachelor in Computer Science, University Paderborn</dt>
 
 </dl>
-You can check also my [Linkedin profile](https://www.linkedin.com/in/patrickbaier/).
+
