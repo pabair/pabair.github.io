@@ -15,4 +15,4 @@ In this project Ilyesse Hettenbach and Gabriel Schurr developed an machine learn
 
 A user can upload a picture showing waste, select between different classification models (EfficientNet-B3, EfficientNet-B4, VGG19, ResNet50 or DinoV2) and get a online estimate about the correct waste category.
 
-To train and finetune the ML models effienciently on the German waste system, they enriched existing dataset from internet with self-taken images of household waste.
+To train and finetune the ML models effciently on the German waste system, they enriched existing dataset with self-taken images of household waste and labeled them accordingly.
