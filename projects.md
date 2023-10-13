@@ -9,10 +9,10 @@ Here is a collection of projects that my students were working on (usually as pa
 \[[Demo](http://193.196.37.242:7860/)\]
 \[[Source Code](https://github.com/Gabriel9753/Waste-Classification-Project)\]
 
-In this project Ilyesse Hettenbach and Gabriel Schurr developed an AI  system that can classify a given image of waste into one of the three categories of the German waste system: "Organic", "Restmüll" or "Wertstoff".
+In this project Ilyesse Hettenbach and Gabriel Schurr developed an machine learning based system that can classify images showing household waste into one of the three categories of the German waste system: "Organic", "Restmüll" or "Wertstoff".
 
- <img src="{{ site.github.url }}/assets/img/wasteclassify.png" alt="Home" width="70%">
+ <img src="{{ site.github.url }}/assets/img/wasteclassify.png" alt="Home" width="80%">
 
-A user can upload a picture showing waste, select a desired AI classification model (EfficientNet-B3, EfficientNet-B4, VGG19, ResNet50 or DinoV2) and get a online prediction about the correct waste category within seconds.
+A user can upload a picture showing waste, select between different classification models (EfficientNet-B3, EfficientNet-B4, VGG19, ResNet50 or DinoV2) and get a online estimate about the correct waste category.
 
-For their work, they took pre-trained vision models and fine tuned them on a set of self taken images of waste, which were labeled according to the German waste categories.
+To train and finetune the ML models effienciently on the German waste system, they enriched existing dataset from internet with self-taken images of household waste.
