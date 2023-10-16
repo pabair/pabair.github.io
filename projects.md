@@ -9,7 +9,7 @@ Here is a collection of projects that my students were working on (usually as pa
 \[[Demo](http://193.196.37.242:7860/)\]
 \[[Source Code](https://github.com/Gabriel9753/Waste-Classification-Project)\]
 
-In this project Ilyesse Hettenbach and Gabriel Schurr developed an machine learning based system that can classify images showing household waste into one of the three categories of the German waste system: "Organic", "Restmüll" or "Wertstoff".
+In this project Ilyesse Hettenbach and Gabriel Schurr developed an machine learning based system that can classify images showing household waste into one of the categories of the German waste system: "Restmüll", "Organic", "Wertstoff", "Papier" und "Glas".
 
  <img src="{{ site.github.url }}/assets/img/wasteclassify.png" alt="Home" width="80%">
 
