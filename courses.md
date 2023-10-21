@@ -1,8 +1,7 @@
 ---
-layout: courses
+layout: page
 title: "Courses"
 ---
-<h3 class="fw-bold border-bottom pb-3 mb-5">Courses</h3>
 I am teaching the following courses on a regular base at the University of Applied Science Karlsruhe:
 
 - **Fundamentals of Statistics** [Details](https://www.iwi.hs-karlsruhe.de/iwii/info/module/INFB/7/INFB2507#INFB2517.b)<br>

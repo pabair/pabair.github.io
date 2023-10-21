@@ -1,5 +1,5 @@
 ---
-layout: startups
+layout: page
 title: "Startups"
 ---
 
