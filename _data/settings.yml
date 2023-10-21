@@ -7,10 +7,10 @@ menu:
 #- {name: 'contact', url: '/contact'}
 
 menu_de:
-- {name: 'Projekte', url: '/projekte'}
-- {name: 'startups', url: '/startups'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'Projekte', url: '/projects_de'}
+- {name: 'Startups', url: '/startups_de'}
+- {name: 'Publikationen', url: '/publications_de'}
+- {name: 'Kurse', url: '/courses_de'}
 
 social:
 - {icon: 'github', link: 'https://github.com/pabair'}
