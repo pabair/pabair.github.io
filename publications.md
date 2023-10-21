@@ -2,8 +2,6 @@
 layout: page
 title: "Publications"
 ---
-<h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-
 Here you can find some of my recent academic publications.
 For a full overview of all publications please visit my 
 [Google Scholar](https://scholar.google.de/citations?user=__JOgFQAAAAJ&hl)
