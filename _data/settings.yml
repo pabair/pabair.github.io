@@ -6,6 +6,12 @@ menu:
 #- {name: 'cv', url: '/cv'}
 #- {name: 'contact', url: '/contact'}
 
+menu_de:
+- {name: 'Projekte', url: '/projekte'}
+- {name: 'startups', url: '/startups'}
+- {name: 'publications', url: '/publications'}
+- {name: 'courses', url: '/courses'}
+
 social:
 - {icon: 'github', link: 'https://github.com/pabair'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}

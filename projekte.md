@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Projects"
+layout: projekte
+title: "Projekte"
 ---
 <h3 class="fw-bold border-bottom pb-3 mb-5">Projects</h3>
 Here is a collection of projects that my students were working on (usually as part of a project work at the University of Applied Sciences Karlsruhe).
