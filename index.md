@@ -17,8 +17,8 @@ title: "Home"
 </div>
 
 One further interest of me lies in the challenge of converting theory into practical applications. I am collaborating and mentoring startups, helping them brining their AI powered products to the market. In reverse, I bring the challenges and insights from there back to the classroom and discuss them with my students.
-You can find an overview of my current activities in this area 
-<a href="https://pabair.github.io/startups.html">here</a>.
+You can find an overview of my current activities in this area on the 
+<a href="https://pabair.github.io/startups.html">startups</a> page.
 <p>
 To find out more about what I did in the past you can check my
 <a href="https://www.linkedin.com/in/patrickbaier/">Linkedin profile</a>.
