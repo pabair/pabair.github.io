@@ -12,7 +12,7 @@ title: "Home"
 	<a href="https://pabair.github.io/projects.html">projects</a> to see what it takes to put machine learning into action. 
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="80%">
+    <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="70%">
   </div>
 </div>
 
