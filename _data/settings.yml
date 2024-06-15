@@ -1,5 +1,5 @@
 menu:
-- {name: 'projects', url: '/projects'}
+#- {name: 'projects', url: '/projects'}
 - {name: 'startups', url: '/startups'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
@@ -7,7 +7,7 @@ menu:
 #- {name: 'contact', url: '/contact'}
 
 menu_de:
-- {name: 'Projekte', url: '/projects_de'}
+#- {name: 'Projekte', url: '/projects_de'}
 - {name: 'Startups', url: '/startups_de'}
 - {name: 'Publikationen', url: '/publications_de'}
 - {name: 'Kurse', url: '/courses_de'}

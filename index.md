@@ -8,8 +8,7 @@ title: "Home"
     Hi, my name is Patrick Baier and I am a professor for machine learning at the University of Applied Science Karlsruhe.
 
 	My main focus lies in teaching the principles of machine learning and artificial intelligence (AI) to my students. The theoretical foundations are taught in several
-	<a href="https://pabair.github.io/courses.html">courses</a>, while the students also work on practical 
-	<a href="https://pabair.github.io/projects.html">projects</a> to see what it takes to put machine learning into action. 
+	<a href="https://pabair.github.io/courses.html">courses</a>, while the students also work on practical projects to see what it takes to put machine learning into action. 
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="70%">
