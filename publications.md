@@ -7,7 +7,10 @@ For a full overview of all publications please visit my
 [Google Scholar](https://scholar.google.de/citations?user=__JOgFQAAAAJ&hl)
 profile.
 
-
+- **Open Set Gestenerkennung zur Interaktion zwischen Passanten und Fahrzeugen mit Automatisierungsfunktionen** <br>
+C. Reichhardt, M. Martin and P. Baier
+<br> Tagungsband zur 37. Jahrestagung des "Arbeitskreises Wirtschaftsinformatik an Hochschulen für Angewandte Wissenschaften im deutschsprachigen Raum" (AKWI), 2024.
+[PDF](https://pabair.github.io/assets/AKWI2024.pdf)
 - **Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing** <br>
 M. Alber, C. Hönes and P. Baier<br>
 To appear: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2024.
