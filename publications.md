@@ -7,6 +7,11 @@ For a full overview of all publications please visit my
 [Google Scholar](https://scholar.google.de/citations?user=__JOgFQAAAAJ&hl)
 profile.
 
+- **Leveraging Generative AI for Enhancing Domain-Driven Software Design** <br>
+G.Wiegand, F. Stepniak and P. Baier
+<br> Proceedings of The Upper Rhine Artificial Intelligence Symposium 
+(URAI), 2024.
+[PDF](https://pabair.github.io/assets/URAI2024.pdf)
 - **Open Set Gestenerkennung zur Interaktion zwischen Passanten und Fahrzeugen mit Automatisierungsfunktionen** (Best Paper Award, AKWI 2024) <br>
 C. Reichhardt, M. Martin and P. Baier
 <br> Tagungsband zur 37. Jahrestagung des "Arbeitskreises Wirtschaftsinformatik an Hochschulen für Angewandte Wissenschaften im deutschsprachigen Raum" (AKWI), 2024.
