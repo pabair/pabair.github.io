@@ -15,7 +15,7 @@ G.Wiegand, F. Stepniak and P. Baier
 - **Open Set Gestenerkennung zur Interaktion zwischen Passanten und Fahrzeugen mit Automatisierungsfunktionen** (Best Paper Award, AKWI 2024) <br>
 C. Reichhardt, M. Martin and P. Baier
 <br> Tagungsband zur 37. Jahrestagung des "Arbeitskreises Wirtschaftsinformatik an Hochschulen für Angewandte Wissenschaften im deutschsprachigen Raum" (AKWI), 2024.
-[Link] (https://dl.gi.de/items/0528134f-44be-41a6-b803-5548e5790be5) 
+[Link](https://dl.gi.de/items/0528134f-44be-41a6-b803-5548e5790be5) 
 [PDF](https://pabair.github.io/assets/AKWI2024.pdf)
 - **Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing** <br>
 M. Alber, C. Hönes and P. Baier<br>
