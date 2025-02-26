@@ -2,17 +2,23 @@
 layout: page
 title: "Projects"
 ---
-Here is a collection of projects that my students were working on (usually as part of a project work at the University of Applied Sciences Karlsruhe).
+Here is an overview of my current projects.
 
-## Waste Classifier 
-\[[Demo](http://193.196.37.242:7860/)\]
-\[[Source Code](https://github.com/Gabriel9753/Waste-Classification-Project)\]
-\[[Report](https://pabair.github.io/assets/PA_waste-classification.pdf)\]
+## DataSat: Data-Driven Investigation to Maximize Artificial Recharge Infiltration in the Shafdan SAT Reclamation System
 
-In this project Ilyesse Hettenbach and Gabriel Schurr developed an machine learning based system that can classify images of household waste into one of the categories of the German waste system: "Restmüll", "Organic", "Wertstoff", "Papier" und "Glas".
-
- <img src="{{ site.github.url }}/assets/img/wasteclassify.png" alt="Home" width="80%">
-
-A user can upload a picture, select between different machine learning classification models (EfficientNet-B3, EfficientNet-B4, VGG19, ResNet50 or DinoV2) and get a estimate about the waste category.
-
-To train and finetune the ML models effciently on the German waste system, they enriched existing dataset with self-taken images of household waste and labeled them accordingly (see their [report](https://pabair.github.io/assets/PA_waste-classification.pdf) for details).
+The Shafdan Soil Aquifer Treatment (SAT) system supplies over 140Mm3/y of effluent for irrigation of raw-
+consumed crops. Currently, it operates beyond capacity, discharging millions of cubic meters of effluent into
+the sea. This can be improved by optimizing effluent distribution across basins.
+We propose to integrate machine learning (ML) methodologies to forecast the infiltration rate to the basins,
+considering both the past and current ambient and operational conditions. The infiltration rate is the most
+important characteristic of infiltration basins. Remarkably, our preliminary research, analyzing over 42,000
+flooding cycles spanning a decade of operation across 50 infiltration basins, revealed that the infiltration
+rate remains head-independent during the drainage phase. This discovery simplifies the infiltration rate
+prediction significantly.
+ML techniques together with Prediction Explainability methods will provide forecasts of the infiltration rate
+and insights into the underlying (mechanistic) factors driving these predictions. Strategies for the optimal
+distribution of the SAT inflow across multiple basins will be examined and validated through simulations
+based on historical conditions. Water losses across different operational scenarios will be compared with
+the actual losses under the same conditions. Field tests will validate the effectiveness of the proposed
+approach. Such modeling has never been proposed before and could be developed only through
+collaboration between a data science team and SAT experts.
