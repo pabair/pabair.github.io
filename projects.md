@@ -6,7 +6,7 @@ Here is an overview of the projects I am currently involved.
 
 # DataSat: Data-Driven Investigation to Maximize Artificial Recharge Infiltration in the Shafdan SAT Reclamation System
 
-- Duration: 36 months
+- Duration: 36 months (12/2024-11/27)
 - Project partner: The Hebrew University of
 Jerusalem
 - Funding: BMBF (ID 02WIL1733)
