@@ -6,6 +6,11 @@ Here is an overview of the projects I am currently involved.
 
 # DataSat: Data-Driven Investigation to Maximize Artificial Recharge Infiltration in the Shafdan SAT Reclamation System
 
+- Duration: 36 months
+- Project partner: The Hebrew University of
+Jerusalem
+- Funding: BMBF (ID 02WIL1733)
+
 The Shafdan Soil Aquifer Treatment (SAT) system supplies over 140Mm3/y of effluent for irrigation of raw-
 consumed crops. Currently, it operates beyond capacity, discharging millions of cubic meters of effluent into
 the sea. This can be improved by optimizing effluent distribution across basins.
@@ -23,4 +28,8 @@ the actual losses under the same conditions. Field tests will validate the effec
 approach. Such modeling has never been proposed before and could be developed only through
 collaboration between a data science team and SAT experts.
 
+Further links:
+- [BMBF Fona](https://www.fona.de/de/)
+- [PTKA, Bereich Wassertechnologie](http://www.ptka.kit.edu/)
+- [Cogerli - German-Israeli Cooperation](https://www.cogeril.de/)
 
