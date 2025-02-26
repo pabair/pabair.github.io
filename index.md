@@ -9,7 +9,7 @@ title: "Home"
 
 	My main interest lies in applying the toosl of machine learning and artificial intelligence (AI) to real-world problems.
   I teach my students the theoretical foundations in these fields in several
-	<a href="https://pabair.github.io/courses.html">courses</a>, while we also work on practical <a href="https://pabair.github.io/courses.html">projects</a> to see what it takes to put machine learning into action. 
+	<a href="https://pabair.github.io/courses.html">courses</a>, while we also work on practical <a href="https://pabair.github.io/projects.html">projects</a> to see what it takes to put machine learning into action. 
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/assets/img/me.jpg" alt="Home" width="70%">
