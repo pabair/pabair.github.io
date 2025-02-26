@@ -2,9 +2,9 @@
 layout: page
 title: "Projects"
 ---
-Here is an overview of my current projects.
+Here is an overview of the projects I am currently involved.
 
-## DataSat: Data-Driven Investigation to Maximize Artificial Recharge Infiltration in the Shafdan SAT Reclamation System
+# DataSat: Data-Driven Investigation to Maximize Artificial Recharge Infiltration in the Shafdan SAT Reclamation System
 
 The Shafdan Soil Aquifer Treatment (SAT) system supplies over 140Mm3/y of effluent for irrigation of raw-
 consumed crops. Currently, it operates beyond capacity, discharging millions of cubic meters of effluent into
@@ -22,3 +22,5 @@ based on historical conditions. Water losses across different operational scenar
 the actual losses under the same conditions. Field tests will validate the effectiveness of the proposed
 approach. Such modeling has never been proposed before and could be developed only through
 collaboration between a data science team and SAT experts.
+
+
