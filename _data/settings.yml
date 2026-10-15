@@ -3,20 +3,7 @@ menu:
 - {name: 'startups', url: '/startups'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-#- {name: 'cv', url: '/cv'}
-#- {name: 'contact', url: '/contact'}
-
-menu_de:
-#- {name: 'Projekte', url: '/projects_de'}
-- {name: 'Startups', url: '/startups_de'}
-- {name: 'Publikationen', url: '/publications_de'}
-- {name: 'Kurse', url: '/courses_de'}
 
 social:
 - {icon: 'github', link: 'https://github.com/pabair'}
-#- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-#- {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/patrickbaier/'}
-
-contacts:
-- {name: 'Prof. Dr. Patrick Baier', department: 'Computer Science ', institution: 'Hochschule Karlsruhe', institution_address: 'Moltkestraße 30, 76133 Karlsruhe', email: 'firstname.lastname@h-ka.de', office: 'E Building, Room E-202A', image: 'assets/img/contact.jpg'}

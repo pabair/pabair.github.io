@@ -7,6 +7,12 @@ For a full overview of all publications please visit my
 [Google Scholar](https://scholar.google.de/citations?user=__JOgFQAAAAJ&hl)
 profile.
 
+- **Predicting Infiltration Rates in Soil Aquifer Treatment: A Comparative Study of Machine
+Learning Models Using Operational and Weather Data** <br>
+C. Reichhardt, P. Baier, R. Elkayam and O. Lev
+<br> Proceedings of The Upper Rhine Artificial Intelligence Symposium 
+(URAI), 2026.
+[PDF](https://pabair.github.io/assets/URAI2026.pdf)
 - **Leveraging Generative AI for Enhancing Domain-Driven Software Design** <br>
 G.Wiegand, F. Stepniak and P. Baier
 <br> Proceedings of The Upper Rhine Artificial Intelligence Symposium 
